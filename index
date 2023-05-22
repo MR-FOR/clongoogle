@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clon Google</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+  </div>
+</body>
+</html>
+
+  <header>
+    <a href="#"><img src="google_logo.png" id="logo" alt="Google Logo"></a>
+    <a href="#">Iniciar sesión</a>
+  </header>
+
+  <main>
+    <section>
+      <form>
+        <input type="text" id="input-search" placeholder="Buscar en San Google">
+        <div>
+          <a href="#" id="search" class="btn-search">Buscar con Google</a>
+          <a href="#" id="lucky" class="btn-search">Busqueda avanzada</a>
+        </div>
+      </form>
+    </section>
+
+    <section>
+    </section>
+  </main>
+
+  <footer>
+    <div>
+      <a href="#" class="footer-link">Publicidad</a>
+      <a href="#" class="footer-link">Negocios</a>
+      <a href="#" class="footer-link">Acerca de</a>
+      <a href="#" class="footer-link">Cómo funciona la búsqueda</a>
+    </div>
+    <div>
+      <a href="#" class="footer-link">Privacidad</a>
+      <a href="#" class="footer-link">Condiciones</a>
+      <a href="#" class="footer-link">Preferencias</a>
+    </div>
+  </footer>
+</body>
+</html>
